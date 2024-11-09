@@ -16,7 +16,7 @@ import java.util.List;
 public class RequestAuthenticate implements GlobalFilter {
 
     private static final List<String> EXCLUDED_PATHS = Arrays.asList(
-            "/users/register", "/users/login", "/products/get/id","/products/get/all","/products/get/search","/products/get/filter"
+            "/users/register", "/users/login", "/products/get/id","/products/get/all","/products/get/search","/products/get/filter","inventory/test"
     );
 
     @Autowired

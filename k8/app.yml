@@ -17,6 +17,7 @@ spec:
       containers:
         - name: api-gateway
           image: docker.io/yuva0606/api-gateway
+          imagePullPolicy: Always
           ports:
             - containerPort: 8080
 ---
