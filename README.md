@@ -10,3 +10,5 @@ The **API Gateway** plays a critical role in the microservices architecture by:
 - **Streamlining Communication**: Routing requests to the designated services (User, Product, Inventory, Order) based on predefined paths and applying custom filters where needed.
 
 This setup provides a secure, organized, and efficient way to handle interactions within the **Ecommerce BackEnd** application.
+
+![E-commerce project](https://github.com/user-attachments/assets/8bb5e1c0-1b24-4213-80b9-3b4345944f41)
